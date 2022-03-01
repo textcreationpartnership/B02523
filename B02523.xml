@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Crums of comfort for the youngest sister. The youngest sister in despair, at last did comfort find, which banisht all her grief and care, and eas'd her troubled mind, a kind young man did promise her that she should married be, she answered him again, kind sir, thereto I'm wondrous free. To a pleasant new west country tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02523</idno>
+            <idno type="STC">Wing C7430</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[56]</idno>
+            <idno type="EEBO-CITATION">99887080</idno>
+            <idno type="PROQUEST">ocm99887080</idno>
+            <idno type="VID">181806</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181806)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Crums of comfort for the youngest sister. The youngest sister in despair, at last did comfort find, which banisht all her grief and care, and eas'd her troubled mind, a kind young man did promise her that she should married be, she answered him again, kind sir, thereto I'm wondrous free. To a pleasant new west country tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P[hilip]. Brooksby at the Golden in Ball West-Smithfield.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "I have a good old father at home ..."</note>
+                  <note>Place, date of publication, and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Love poetry, English --  England --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181806:1"/>
+            <!-- PDF PAGE 18 -->
+            <head>Crums of Comfort FOR THE YOUNGEST SISTER</head>
+            <argument>
+               <l>The youngeſt Siſter in deſpair,</l>
+               <l>At laſt did comfort find,</l>
+               <l>Which baniſht all her grief and care,</l>
+               <l>And eas'd her troubled mind,</l>
+               <l>A kind young man did promiſe her</l>
+               <l>That ſhe ſhould married be,</l>
+               <l>She anſwered him again, Kind Sir,</l>
+               <l>Thereto I'm wondrous free.</l>
+            </argument>
+            <opener>To a pleaſant new Weſt country Tune.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>I Have a good old Father at home,</l>
+               <l>an ancient man is he,</l>
+               <l>But he has a mind, that e're he dies,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>That I ſhould marry'd be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And ſince I heard of thy complaint,</l>
+               <l>methoughts I pitty'd thée,</l>
+               <l>To me thou ſeemeſt like a Saint,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And thou ſhalt marryed be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Roſes and the Lillies fair</l>
+               <l>cannot compare to thee,</l>
+               <l>Then mine own Dear do not deſpair,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>for thou ſhalt married be</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I have been curious in mine eye,</l>
+               <l>yet ne'r could any ſee,</l>
+               <l>That ſo much pleas'd my fantaſie,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And thou ſhalt married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>All night between my loving Arms,</l>
+               <l>thou ſhalt have embraces free,</l>
+               <l>And ile ſecure thee from all harms</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>When thou ſhalt married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And wouldſt thou have a pretty Babe</l>
+               <l>ile quickly get it thee,</l>
+               <l>Thy credit and my own to ſave,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>When we two married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>A Thouſand joys ile promiſe more</l>
+               <l>and all the world ſhall ſee,</l>
+               <l>That none like thee I will adore,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And thou ſhalt married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>What though thy Siſter is beſtow'd,</l>
+               <l>let not that trouble thee,</l>
+               <l>On her young men ſome years have blowd</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Thou young ſhalt married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Thou haſt no wrinckles in thy face</l>
+               <l>and ſo i'm ſure has ſhe,</l>
+               <l>'Twill be an honour, no diſgrace,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>That thou ſhouldſt married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And tell me now canſt thou deny</l>
+               <l>ſo kind a friend as me,</l>
+               <l>That ſaith thou ſhalt no Maiden die,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But thou ſhalt married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>If I walk through the Vniverſe</l>
+               <l>I can no fairee ſee,</l>
+               <l>But every where I will reherſe</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>That we will married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Ile Crown thee with the joys of love,</l>
+               <l>ſome Mortals ne'r did ſee,</l>
+               <l>And ſome ſhall wiſh that live above,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Like us to married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Can <hi>Hymen</hi> any joys provide,</l>
+               <l>my Dear for thee or me,</l>
+               <l>Out of his thoughts they cannot ſlide,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But thou ſhalt married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>No, no, torment thy ſelf no more,</l>
+               <l>nor fear loves cruelty,</l>
+               <l>Thou art the girl that I adore,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And thou ſhalt married be,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Give me thy hand, take here my heart,</l>
+               <l>and be from ſorrow free,</l>
+               <l>I know the worth of thy deſert,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And thou ſhalt married be.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>'Twill be one day a bleſſed time</l>
+               <l>and we from cares be free,</l>
+               <l>When thou art married in thy prime</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>That I may happy be.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for P. <hi>Brooksby</hi> at the Golden in Ball Weſt-Smithfield.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
